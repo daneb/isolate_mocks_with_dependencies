@@ -1,0 +1,1 @@
+/Users/danebalia/Documents/Personal/Manning/LiveProjectAutomatedTesting/isolate_mocks_with_dependencies/chapter1_solution/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
